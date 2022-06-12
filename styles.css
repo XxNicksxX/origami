@@ -1,0 +1,22 @@
+
+
+body{
+
+    background-color: rgb(190, 190, 190);
+}
+.header{
+    background-image: url("fundo-de-formas-abstratas-brancas_79603-1362 (1).webp");
+    padding-right:30px;   
+}
+.grind img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami {
+
+    border-radius: 20px;
+    background-color: white;
+
+    width: 310px;
+    font-family: fantasy;
+}
